@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://witty-smoke-01ced7d00.3.azurestaticapps.net/
-**project demo video link** - https://youtu.be/fpqSqSbNT3g
+**project demo video link** - https://youtu.be/zyuW5m3XHSE
 
 ## Azure technologies used for Project -
 
