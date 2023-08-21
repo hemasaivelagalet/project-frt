@@ -22,37 +22,38 @@ This is a web based application developed for health related based website in in
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
-
-[screen.jpg(https://github.com/hemasaivelagalet/project2003/files/9994429/screen.jpg)
-
-
-
-   
+## project Screenshot
+## Home -
+   ![Screenshot (30)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/bc0805f2-7491-4087-b865-6229657e72f5)
 
 ### About Us -
+![Screenshot (33)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/910f22af-fbfb-4225-a0db-d3e78edf8c2a)
+
+### Short codes -
 
 
-[screenshot2.docx](https://github.com/hemasaivelagalet/project2003/files/9994440/screenshot2.jpg)
-
-
-### Services -
-
-[screenshot3.docx](https://github.com/hemasaivelagalet/project2003/files/9994445/screenshot3.jpg)
+![Screenshot (34)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/d32de2f1-a894-4945-813c-0f7fa971b728)
 
 
 
-### Contact us -
-
-[screenshot4.docx](https://github.com/hemasaivelagalet/project2003/files/9994449/screenshot4.jpg)
+### gallary -
 
 
-### health bot
+![Screenshot (35)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/e388c2a2-ad59-4c32-b009-f9c879b5093f)
 
-[sceenshot5.docx](https://github.com/hemasaivelagalet/project2003/files/9994450/sceenshot5.jpg
-)
+### health bot-
+
+![Screenshot (36)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/c5286457-c55b-4e4c-b899-b2141820c001)
 
 
+### contact -
+
+![Screenshot (37)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/40c7c690-1d9d-460c-847a-6316cefc3378)
+
+
+## AZURE TECHNOLOGY SCREEN SHOTS -
+![Screenshot (38)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/da14d792-cb7b-41ad-ab25-0cadaec4b34b)
+![Screenshot (39)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/96767d1d-7763-45ff-9e37-ca9512ac9926)
 
 ## Tech Stack 💻
 
