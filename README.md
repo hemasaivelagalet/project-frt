@@ -22,6 +22,18 @@ This is a web based application developed for health related based website in in
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
+
+## AZURE TECHNOLOGY SCREEN SHOTS -
+
+
+### STATIC WEB APPS
+![Screenshot (38)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/da14d792-cb7b-41ad-ab25-0cadaec4b34b)
+
+### AZURE HEALTH BOT
+![Screenshot (39)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/96767d1d-7763-45ff-9e37-ca9512ac9926)
+
+
+
 ## project Screenshot
 ## Home -
    ![Screenshot (30)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/bc0805f2-7491-4087-b865-6229657e72f5)
@@ -51,9 +63,6 @@ This is a web based application developed for health related based website in in
 ![Screenshot (37)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/40c7c690-1d9d-460c-847a-6316cefc3378)
 
 
-## AZURE TECHNOLOGY SCREEN SHOTS -
-![Screenshot (38)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/da14d792-cb7b-41ad-ab25-0cadaec4b34b)
-![Screenshot (39)](https://github.com/hemasaivelagalet/project-frt/assets/116558962/96767d1d-7763-45ff-9e37-ca9512ac9926)
 
 ## Tech Stack 💻
 
